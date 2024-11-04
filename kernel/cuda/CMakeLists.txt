@@ -1,0 +1,2 @@
+add_subdirectory(1_naive)
+add_subdirectory(2_global_mem_coalesce)
